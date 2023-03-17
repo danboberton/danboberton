@@ -25,6 +25,7 @@ CS464 is a Human Computer Interaction course at Colorado State University. Team 
 
 ## 🌱 Learning
 
+* __Next.js__, reading through the documentation, thinking about rewriting money-mate with next
 * __Responsive design__, working on flexboxes and css in freecodecamp.org Responsive Web Design course
 * __React Design Patterns__, working through LinkedIn Learning course
 * __Project Management__, CIS320 at Colorado State University, studying project management fundamentals
