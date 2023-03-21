@@ -4,7 +4,14 @@ Full Stack Developer / Dad
 ## ⚡ About Me 
 I'm a naturally curious, lifelong learner who is detail oriented, a diligent troubleshooter, and an empathetic team player. I _LOVE_ designing solutions to problems. I'm currently looking for work as a Software Engineer, in Full-Stack or Firmware development. Check out my [LinkedIn](https://www.linkedin.com/in/dan-butcher-foco/)!
 
+## 🌱 Learning
+There's so much to learn! This is what I'm focusing on at the moment:
 
+* __graphQL__, studying LinkedIn Learning graphQL courses, working on implementing in money-mate
+* __Next.js__, reading through the documentation, the official docs are great!
+* __Responsive design__, working on flexboxes and css in freecodecamp.org Responsive Web Design course
+* __React Design Patterns__, working through LinkedIn Learning course
+* __Project Management__, CIS320 at Colorado State University, studying project management fundamentals
 
 ## 🔭 Current Projects 
 
@@ -23,12 +30,7 @@ CS464 is a Human Computer Interaction course at Colorado State University. Team 
 * React front end
 * Within-Subjects experiment
 
-## 🌱 Learning
 
-* __Next.js__, reading through the documentation, thinking about rewriting money-mate with next
-* __Responsive design__, working on flexboxes and css in freecodecamp.org Responsive Web Design course
-* __React Design Patterns__, working through LinkedIn Learning course
-* __Project Management__, CIS320 at Colorado State University, studying project management fundamentals
 
 <!--
 **danboberton/danboberton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
